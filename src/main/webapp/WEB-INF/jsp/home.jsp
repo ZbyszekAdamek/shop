@@ -7,7 +7,14 @@
 <head>
 
 
-    <title>Online shop</title>
+    <title>Online shop
+
+
+        <!-- Custom styles for this template-->
+        <link href="<c:url value="/theme/css/main.css"/>" rel="stylesheet">
+
+
+    </title>
 
 
 </head>
